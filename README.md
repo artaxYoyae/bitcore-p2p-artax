@@ -2,12 +2,12 @@ Bitcore P2P-Artax
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-p2p-artax.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-p2p-artax)
-[![Build Status](https://img.shields.io/travis/yoyaeArtax/bitcore-p2p-artax.svg?branch=master&style=flat-square)](https://travis-ci.org/yoyaeArtax/bitcore-p2p-artax)
-[![Coverage Status](https://img.shields.io/coveralls/yoyaeArtax/bitcore-p2p-artax.svg?style=flat-square)](https://coveralls.io/r/yoyaeArtax/bitcore-p2p-artax?branch=master)
+[![Build Status](https://img.shields.io/travis/artaxYoyae/bitcore-p2p-artax.svg?branch=master&style=flat-square)](https://travis-ci.org/artaxYoyae/bitcore-p2p-artax)
+[![Coverage Status](https://img.shields.io/coveralls/artaxYoyae/bitcore-p2p-artax.svg?style=flat-square)](https://coveralls.io/r/artaxYoyae/bitcore-p2p-artax?branch=master)
 
 `bitcore-p2p-artax` adds Artax protocol support for Bitcore-Artax.
 
-See [the main bitcore-artax repo](https://github.com/yoyaeArtax/bitcore-artax) for more information.
+See [the main bitcore-artax repo](https://github.com/artaxYoyae/bitcore-artax) for more information.
 
 ## Getting Started
 
@@ -47,7 +47,7 @@ Take a look at the [bitcore guide](http://bitcore.io/guide/peer.html) on the usa
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/yoyaeArtax/bitcore-artax/blob/master/CONTRIBUTING.md) on the main bitcore-artax repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/artaxYoyae/bitcore-artax/blob/master/CONTRIBUTING.md) on the main bitcore-artax repo for information about how to contribute.
 
 ## License
 

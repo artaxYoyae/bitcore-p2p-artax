@@ -49,16 +49,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yoyaeArtax/bitcore-p2p-artax.git"
+    "url": "https://github.com/artaxYoyae/bitcore-p2p-artax.git"
   },
   "dependencies": {
-    "bitcore-lib-artax": "yoyaeArtax/bitcore-lib-artax",
+    "bitcore-lib-artax": "artaxYoyae/bitcore-lib-artax",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
-    "bitcore-build-artax": "yoyaeArtax/bitcore-build-artax",
+    "bitcore-build-artax": "artaxYoyae/bitcore-build-artax",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
